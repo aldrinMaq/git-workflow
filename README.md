@@ -1,1 +1,6 @@
-first commit
+- production (real production workload)
+  - hotfixes (branches that are quick fixes on production)
+- staging (blue / green - duplicate of production environment)
+- main (main branch where we are going to merge all our features)
+  - features
+- qa (perform tests before merging into staging)
