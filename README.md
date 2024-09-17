@@ -5,13 +5,13 @@
   - features
 - qa (perform tests before merging into staging)
 - 
-# lpsum
+# Our lpsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
 aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
 aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# horoscope
+# Our horoscope
 Eclipse season reminder: change is good, Aries. Change is always good—even if it doesn’t manifest in the way that you imagine.
 Buckle your seatbelt and get ready for a wild ride. You’re going to be so, so grateful you did. At the same time,
 pay attention to areas of your life where you’re feeling “stuck”. Take a good look in the mirror and ask yourself the tough
