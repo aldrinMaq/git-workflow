@@ -12,7 +12,9 @@ aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugia
 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # horoscope
-Eclipse season reminder: change is good, Aries. Change is always good—even if it doesn’t manifest in the way that you imagine.
-Buckle your seatbelt and get ready for a wild ride. You’re going to be so, so grateful you did. At the same time,
-pay attention to areas of your life where you’re feeling “stuck”. Take a good look in the mirror and ask yourself the tough
-questions. Remember, you’re stronger, braver and sexier than you give yourself credit for. Don’t hold yourself back in any way.
+Everything we consume affects our vibration, from the food we eat to the books we read. Needless to say, our friend circle plays 
+an essential role in determining our state of being. This brings us to the most important question: who are you surrounding 
+yourself with at the moment? Are you in the company of those who make you feel seen, heard and witnessed? The kind of people 
+who stand by you through the bad times *and* celebrate your victories like their own? Two words: choose wisely. 
+At the same time, if you feel like there’s a friend who’s been having a hard time or been MIA for a bit, now is a good time to 
+reach out to them.
