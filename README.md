@@ -12,5 +12,7 @@ aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugia
 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # horoscope
-Balance is hard to find, but the Temperance card is clear: You're finding it in your own life. 
-Now, keep that moderation going. All life is a balancing act, and you're well on...
+Eclipse season reminder: change is good, Aries. Change is always good—even if it doesn’t manifest in the way that you imagine.
+Buckle your seatbelt and get ready for a wild ride. You’re going to be so, so grateful you did. At the same time,
+pay attention to areas of your life where you’re feeling “stuck”. Take a good look in the mirror and ask yourself the tough
+questions. Remember, you’re stronger, braver and sexier than you give yourself credit for. Don’t hold yourself back in any way.
